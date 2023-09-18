@@ -1,0 +1,43 @@
+main, h1{ padding: 1em;}
+
+html{
+  background-color: lightgray;
+}
+
+img{
+  height: 10rem;
+  width: auto;
+  box-shadow: 10px 5px 5px grey;
+  border-radius: 25% 10%;
+}
+
+main p{
+  background-color: gainsboro;
+  box-shadow: 10px 5px 5px grey;
+}
+
+main li{
+  border: thin solid black;
+  padding: 1em;
+  background-color: gainsboro;
+  box-shadow: 10px 5px 5px grey;
+}
+
+footer{
+  border: thin solid black;
+}
+
+h1{
+  color:orangered;
+}
+
+p{
+  color:orangered;
+}
+
+ul {
+  list-style-type: none;
+}
+
+
+
